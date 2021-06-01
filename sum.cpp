@@ -4,6 +4,6 @@ int main()
 {
     int a,b;
     cin>>a>>b;
-    int sum=a+b;
-    cout<<sum<<endl;
+    int sumval=a+b;
+    cout<<sumval<<endl;
 }
