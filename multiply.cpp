@@ -4,6 +4,6 @@ int main()
 {
     int a,b;
     cin>>a>>b;
-    int x=a*b;
-    cout<<x<<endl;
+    int v=a*b;
+    cout<<v<<endl;
 }
